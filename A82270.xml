@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The decoy: or, A practice of the Parliaments, by the perfidie of the Earle of Holland, to discover and destroy the loyall party: manifested by the whole conduct of the designe wherein the Lord Duke of Buckingham, the Earle of Peterbrorough, and the Lord Francis lately ingaged. And the manner and causes of the defeat given unto their party at Kingston, described.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82270</idno>
+            <idno type="STC">Wing D805</idno>
+            <idno type="STC">Thomason E453_40</idno>
+            <idno type="STC">ESTC R204967</idno>
+            <idno type="EEBO-CITATION">99864415</idno>
+            <idno type="PROQUEST">99864415</idno>
+            <idno type="VID">162003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162003)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The decoy: or, A practice of the Parliaments, by the perfidie of the Earle of Holland, to discover and destroy the loyall party: manifested by the whole conduct of the designe wherein the Lord Duke of Buckingham, the Earle of Peterbrorough, and the Lord Francis lately ingaged. And the manner and causes of the defeat given unto their party at Kingston, described.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holland, Henry Rich, --  Earl of, 1590-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162003:1" rendition="simple:additions"/>
+            <p>THE DECOY: OR, A Practice of the Parliaments, by the Perfidie of the Earle of Holland, <hi>To diſcover and deſtroy the Loyall Party;</hi> MANIFESTED By the whole conduct of the Deſigne wherein the Lord Duke of BUCKINGHAM, the Earle of PETERBOROUGH, and the Lord FRANCIS lately ingaged.</p>
+            <p>And the manner and cauſes of the defeat given unto their Party at Kingſton, described.</p>
+            <p>Printed in the Yeer 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162003:2"/>
+            <pb n="1" facs="tcp:162003:2"/>
+            <head>The Decoy.</head>
+            <p>THe ſtupid neglect and over-ſight of practiſes deſtructive unto us, is wholly inconſiſtent with a Chriſtian ingenuity, which requires due circumſpection in the conduct of acti<g ref="char:EOLhyphen"/>on, aſwell as integrity in the intention: This conſidera<g ref="char:EOLhyphen"/>tion may now ſeaſonably direct us unto a view of, and an enquiry into the late treachery of the Earle of <hi>Holland</hi> againſt the Lord Duke of <hi>Buckingham,</hi> the Lord <hi>Francis,</hi> the Earle of <hi>Peterborough,</hi> and thoſe Knights, Commanders, Gentlemen and Souldiers, who for the ſervice of his Majeſty were drawn unto them. The wiſeſt of men affirmes it, that <hi>the heart of man is deceitfull above all things;</hi> and he who was more then man, and beſt knew men, <hi>would not commit himſelfe unto man, becauſe he knew what was in man.</hi> Faith<g ref="char:EOLhyphen"/>fulneſſe gives us many ſweet reſemblances of the divine nature, but perfidie in men ſhewes them of the complexion of their Father the Devill, who is falſhood it ſelfe.</p>
+            <p>It was held moſt neceſſarie by the Grandees of the private Jun<g ref="char:EOLhyphen"/>to, and now high time to diſcover and deſtroy at once the Kings Party at home, before they ſhould have an oportunity to joyne with Forces raiſed for his Majeſty abroad. This plot would excee<g ref="char:EOLhyphen"/>dingly contribute unto the continuance, and ſo much laboured for eternity of this Parliament: the affections of the people were ſuddenly and ſtrangely altered from them, they much feared that upon the approach of his highneſſe the Prince, or any other in a condition to declare for His Majeſtie againſt their proceedings, many who now appeared not, would be very active againſt them; theſe if it were poſſible muſt be found removed out of the way, in that the ſuppreſſion of them, as it would much ſtrengthen them<g ref="char:EOLhyphen"/>ſelves, ſo it would alſo exceedingly weaken the Royall party: <hi>Holland</hi> is deſigned to undertake this task, nor could they have pitched upon a perſon more fit to promote this purpoſe; this (Muſhrome of honor growne up in a night or two one of the o<g ref="char:EOLhyphen"/>ver-liberall and thick dew of his Princes favour) was one who de<g ref="char:EOLhyphen"/>rived
+<pb n="2" facs="tcp:162003:3"/>from his Parents more then originall ſin, yet inherited no<g ref="char:EOLhyphen"/>thing but their vices, luxury and inconſtancy, his whole Patrimony was his Princes bounty; yet was he one of the firſt that began to ſmite his fellow ſervants, <hi>Laud</hi> and <hi>Strafford,</hi> and to conſpire a<g ref="char:EOLhyphen"/>gainſt his Maſter, whom he only <hi>followed for the laoves,</hi> and loved for his own livelihood; and therefore was it that in his greateſt ad<g ref="char:EOLhyphen"/>verſity he deſerted his Soveraign, who from nothing had raiſed him unto the chiefeſt honours of the Kingdome, and adhered un<g ref="char:EOLhyphen"/>to his enemies in the Parliament, yet had his Lunary affections many wainings and increaſes, and ſo various revolutions betwixt King and Parliament, that he ſhifted his parties as often as his mother did her husbands, and yet plaid looſe with both: but his turne was now to owne the Kings quarrell and party, he muſt joyne with them to give them more blowes and deeper wounds, then he could do at a diſtance from them: he was put upon the practice of a baſe kind of Chymiſtry, to extract the reſolutions of heroick, yet youthfull and credulous ſpirits, the Lord <hi>Duke,</hi> and his brother, unto whom it was even naturall and hereditary to honour and ſerve their Prince; they adde the Earle of <hi>Peterbo<g ref="char:EOLhyphen"/>rough</hi> unto them, and upon theſe young and tender plants of ho<g ref="char:EOLhyphen"/>nour, he operates his deſigne (being principally aſſiſted therein by that Engliſh <hi>Jezabel,</hi> the Counteſſe of <hi>Carliſle,</hi> and perſwades them, who had money and means to advance his Majeſties cauſe, to engage all they could to arme with them; he ſhewes them the honour and eaſineſſe of the worke, offers himſelfe to act a chiefe part in it, and heightning their courages with large Ca<g ref="char:EOLhyphen"/>rowſes, perſwades them over a cup of wine (for ſo it was car<g ref="char:EOLhyphen"/>ried) unto the undertaking: And thus was this deliberate conſulta<g ref="char:EOLhyphen"/>tion firſt drawne forth, how he further managed it to improve the Parliament-purpoſes, may be diſcerned from his march and the paſſages in it.</p>
+            <p>Upon Tueſday July 4. the rendezvouz was appointed upon Hownſlow heath between 12. and one of the Clock at night; where about 120. Horſe appeared: The ſecond rendezvouz was between the two walls neare Kingſtone, where appeared the Lord Duke with his brother, and the Earle of Holland, who made a ſhort and hollow ſpeech unto the Cavalry, unto this purpoſe, and (if I re<g ref="char:EOLhyphen"/>member) in theſe words: Gentlemen, we are met together a<g ref="char:EOLhyphen"/>bout
+<pb n="3" facs="tcp:162003:3"/>a good work; to reeſtabliſh his Majeſty; for our Liberties and for a Parliament, you have perſons of honor engaged with you in the Action, who will live and dye with you in it, and you will find the Countries very firme unto you. Hereupon order was given to take up the ſerviceable Horſe were in Hampton Court Park, and the places adjacent; and ſo having ſeized upon ſome Committee-mens horſes at Kingſtone, we marched that night to Rigate where we arrived very late, and ſomewhat increaſed our number there in the morning, when ſome few of the Enemies horſe diſcovered themſelves unto us from the diſtant hills, and upon our approach retreated.</p>
+            <p>Upon Thurſday from Rigate we marched unto Darkin, whither we came alſo very late, there we found ſome Arms, yet little care was taken to arme the foot that came in unto us, or to mount ſome Gentlemen that waited for that purpoſe.</p>
+            <p>Upon Friday on our march from Darkin we were told that 400. of the Parliament Horſe, and 200. foot were come to Rigate; neare unto which we marched, and with ſo great ſecurity and diſ<g ref="char:EOLhyphen"/>order, (no care being taken for ſetting forth of Scouts, forlorne hopes, or Rereguards, as might have given aſſurance unto any ac<g ref="char:EOLhyphen"/>quainted with military affaires, that no Enemie was in that Coun<g ref="char:EOLhyphen"/>try; yea we uſed the ſame ſignall, and marched with it and one and the ſame word for two daies march in caſe we were to fight: Yea the confuſion amongſt us was ſo great, that we gave acciden<g ref="char:EOLhyphen"/>tally Alarum unto, and routed our ſelves; for that afternoone a Parliament-man, Sir <hi>John Eveling,</hi> expecting to parley with the Earle of <hi>Holland,</hi> ſome in the Head of Colonell <hi>Leggs</hi> Troope, ſeeing a partie whom before they had not noted, gave the word face about, whereupon enſued ſuch a rout, that divers quitted their horſes, the foot their armes, our waggons were overthrowne, di<g ref="char:EOLhyphen"/>vers betook themſelves unto the adjoyning woods; and a Com<g ref="char:EOLhyphen"/>mittee-man had the leaſure to mount himſelfe upon a good horſe that was caſt of: Being redeemed from the inconveniencies this miſtake put us into, and rallied againe, we marched as careleſly as before, unto, and almoſt through, Noneſuch Park, there another Alarum, but a truer came unto us, that ſome Skirters of the Ene<g ref="char:EOLhyphen"/>my fell upon our Reare, and were beaten back with the loſſe of three of theirs, and one of ours taken priſoner; whereupon an
+<pb n="4" facs="tcp:162003:4"/>halt was made, our foot, and Carriages drawne off, and ſent into Kingſtone before us: Some few of the Enemies horſe were ſcout<g ref="char:EOLhyphen"/>ing abroad in the Park, we ſent ſome to piqueire with them, &amp; diſ<g ref="char:EOLhyphen"/>covering more of the Enemy, ſent more of ours againſt them, it grew in this time to be ſomewhat dark, ſo that diſcovering ſtill more of the Enemie, then we had before, we were drawne up in 3. diviſions againſt them; the Enemie had in the mean time lodg<g ref="char:EOLhyphen"/>ed ſome Dragoones and Muſqueteers in the brakes, and buſhes, who upon our advance unto that party we ſaw of Horſe, fired their long ſhot upon our front ſo thick, that there fell downe ſome 12. men in the front and Reare, upon the powring out of which dou<g ref="char:EOLhyphen"/>ble volley of ſhot upon us, their whole Horſe ſuddainly ſhewed themſelves for their beſt advantage, advancing towards us, upon which ſome amongſt us cryed out, the Armie, the Armie, we are all betrayed, no ſtop could be made of our running, untill we came unto Kingſtone (although it was indeavoured) where we met with out foot who cryed ſhame at us, and threatned to fire upon us, in Kingſtone it was often propounded that we ſhould rallie, but never effected, yea after the Bridge was ſtopped by our own Waggon, the horſe drew over in a file; and then for the greater part every man ſhifted for himſelfe.</p>
+            <p>In the whole carriage hitherto, the Treachery of the Earle of <hi>Holland</hi> (who gave forth all Orders) appeares in theſe particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>His tranſaction with ſo young and heedleſſe judgements, whoſe yeares and experience rendred them unfit to manage a deſigne of that importance.</p>
+            <p>The open carriage of the deſigne in London before the takeing of the field.</p>
+            <p>The neglect of a place of retreat, the maine thing in ſuch a buſi<g ref="char:EOLhyphen"/>neſſe as whereunto all Loyally affected Horſe and Foot might re<g ref="char:EOLhyphen"/>paire unto us.</p>
+            <p>The want of a Magazine for victuall, Armes, and Ammunition.</p>
+            <p>The preſent defect of Armes and Ammunition, the 500. Horſe drawne together (the Dukes party not exceeding that number) having not above 120. Caſe of Piſtolls amongſt them all.</p>
+            <p>The want of Dragoones who were moſt uſefull in ſuch a march.</p>
+            <pb n="5" facs="tcp:162003:4"/>
+            <p>The want of due notice given unto the Countries to joyne with us; divers Gentlemen telling the Commanders they never heard of ſuch an undertaking for his Majeſty.</p>
+            <p>The great neglect of all intelligence, and in obſervance of all motions of the Enemie.</p>
+            <p>The careleſſeneſſe uſed in the whole March, in four dayes not marching above 10. Miles from our firſt rendezvouz, and ſo neare London.</p>
+            <p>In abandoning the Party ingaged unto want, the greater parts being poore Gentlemen that had ſerved the King, wanting mo<g ref="char:EOLhyphen"/>ney to buy them victualls or to ſhoe their Horſes; not one pen<g ref="char:EOLhyphen"/>ny being disburſed amongſt the Souldiers.</p>
+            <p>No Commiſſion or Authority from his Majeſty or the Prince ſhowen for ſuch an undertaking, to ſatisfie the Gentlemen in<g ref="char:EOLhyphen"/>gaged; or the nature of carrying on the deſign, ſhewen, or inti<g ref="char:EOLhyphen"/>mated.</p>
+            <p>The offring to fight the Enemie in the infancie of ſuch a deſign, and at ſuch a time (the Night) as the Enemies force could not be diſcovered, or an orderly Retreat made.</p>
+            <p>The Lord of <hi>Hollands</hi> Parleying with <hi>Eveling,</hi> a ſublimated Parliamentarian, a little before the defeat.</p>
+            <p>If any alledge that all these are but preſumptions; (beſides the jealouſie, and diſtruſt of the whole party in him, which could not in ſuch an undertakeing, be but of dangerous conſequence) they are ſuch as the Law calls <hi>violent</hi> ones, and ſummed up together make ſtrong evidence; But that which will leave no place to doubt of this mans treachery; is the teſtimony of divers perſons of Quali<g ref="char:EOLhyphen"/>ty, who relate that at a Conference wherein this brave Earl made one, the matter on foot being the reeſtabliſhment of his Majeſty, and the waies propounded Accommodation or force, he could not hide himſelfe, but with an impetuous earneſtneſſe ſaid; <hi>If the King be restored by force all England will be to little for the Cava<g ref="char:EOLhyphen"/>liers:</hi> A fit man to be truſted with Cavaliers lives. Adde unto this, that ſome Parliament-men ſaid, (ſpeaking of this matter) <hi>that Holland had carried himſelfe well and wiſely;</hi> But I leave both the Parliament and him unto the reward of Treachery; the hatred of God, and man, and adviſe all Loyalliſts to beware of ſuch Carpet Knights as <hi>Holland,</hi> and how they be decoyed into their deſtru<g ref="char:EOLhyphen"/>ction.
+<pb n="6" facs="tcp:162003:5"/>for if you compare this with his practices to intangle the Kentiſh men, and the Gentry of Eſſex, it will ſum up all evidence to ſentence him a moſt perfidious perſon, and one employed by the gracious State: for his owne ſweet brother <hi>Warwick</hi> (if he be ſo, his mother were ſhe alive, and God onely are able to ſolve the Queſtion) hath under pretext of debt and the ſpeciall Order of the Houſe, ſeized upon Kenſington; All men know how little <hi>Warwick</hi> was able to lend mony; and that his brother <hi>Hol<g ref="char:EOLhyphen"/>lands</hi> debts were ſcores for the greater part; for his carriage at S. <hi>Needs,</hi> it was ſuch as his honor lies at ſtake for (if he forfeited it not before.) And if <hi>Holland</hi> were ſuch a ſtrong Cavalier and Kings man, why was he not brought to London to be examined of the fatal plot againſt the State? No they deſign him an inſtrument of further miſchiefe; He is hereby, if he be innocent, challenged unto a publique clearing of this charge; otherwiſe, beſide future vengeance, let him expect <hi>Dolbeirs</hi> fate, and by the ſame hand. A<g ref="char:EOLhyphen"/>dieu <hi>Holland.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
